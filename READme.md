@@ -12,6 +12,11 @@
 -   `from`
 -   `amt`[Optional]
 
+### Import API
+```
+    const api = require('currency-js')
+```
+
 ### convertAmt
 
 ```jsx

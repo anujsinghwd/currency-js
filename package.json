@@ -1,5 +1,5 @@
 {
-  "name": "currency-js",
+  "name": "currency-js-sdk",
   "version": "0.0.1",
   "description": "currency-js is is a simple and lightweight API for current foreign exchange",
   "main": "index.js",

@@ -1,0 +1,36 @@
+{
+  "name": "currency-js",
+  "version": "0.0.1",
+  "description": "currency-js is is a simple and lightweight API for current foreign exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujsinghwd/currency-js.git"
+  },
+  "keywords": [
+    "currency",
+    "foreign",
+    "exchange",
+    "rate",
+    "currency",
+    "API",
+    "currency",
+    "Rest",
+    "API"
+  ],
+  "author": "anuj singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anujsinghwd/currency-js/issues"
+  },
+  "homepage": "https://github.com/anujsinghwd/currency-js#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}

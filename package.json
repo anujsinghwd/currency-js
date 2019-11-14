@@ -4,7 +4,8 @@
   "description": "currency-js is is a simple and lightweight API for current foreign exchange",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "trypublish": "npm publish || true"
   },
   "repository": {
     "type": "git",

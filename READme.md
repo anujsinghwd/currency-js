@@ -20,7 +20,7 @@
 ### convertAmt
 
 ```jsx
-    api.convertAmt({ to: 'INR', from: 'USD', amt: 1 }, (res) => {
+    api.convertAmt({ to: 'INR', from: 'USD', amt: 247 }, (res) => {
         console.log(res);
     })
 ```
